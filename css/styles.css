@@ -255,8 +255,7 @@ body {
 
 .portfolio_projects_descr {
     color: var(--primary-color);
-    font-size: 16px;
-    line-height: 1.87;
+    font-size: 16px;line-height: 1.87;
     letter-spacing: 0.03em;
     margin: 0 24px 20px 24px;
 }
