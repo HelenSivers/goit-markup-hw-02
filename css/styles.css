@@ -150,7 +150,6 @@ body {
 }
 
 .features_descr {
-    color: var(--primary-color);
     line-height: 1.7;
     letter-spacing: 0.03em;
 }
@@ -255,6 +254,7 @@ body {
 
 
 .portfolio_projects_descr {
+    color: var(--primary-color);
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
