@@ -236,6 +236,10 @@ body {
     height: 1360px;
 }
 
+.portfolio_link {
+    color: var(--primary-color);
+}
+
 .portfolio_projects_item {
     width: 370px;
     height: 404px;
@@ -253,9 +257,9 @@ body {
 }
 
 
-.portfolio_projects_descr {
-    color: var(--primary-color);
-    font-size: 16px;line-height: 1.87;
+.portfolio_projects_descr {    
+    font-size: 16px;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     margin: 0 24px 20px 24px;
 }
